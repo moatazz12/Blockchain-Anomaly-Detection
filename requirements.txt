@@ -1,0 +1,4 @@
+requests
+pymongo
+numpy
+psycopg2
