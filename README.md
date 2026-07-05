@@ -349,3 +349,7 @@ Access the dashboard at `http://localhost:8501` to view:
 
 Developed within the **Data & AI Research Initiatives** at **Institut International de Technologie (IIT)**.  
 Project Lead: [Moataz](https://github.com/moatazz12) — April 2026.
+
+## Project Status
+
+Successfully defended as Year-End Project (PFA).
